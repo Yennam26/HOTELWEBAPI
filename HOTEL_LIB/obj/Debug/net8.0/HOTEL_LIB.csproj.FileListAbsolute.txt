@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\bin\Debug\net8.0\HOTEL_LIB.deps.json
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\bin\Debug\net8.0\HOTEL_LIB.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\bin\Debug\net8.0\HOTEL_LIB.dll
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\bin\Debug\net8.0\HOTEL_LIB.pdb
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\obj\Debug\net8.0\HOTEL_LIB.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\obj\Debug\net8.0\HOTEL_LIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\obj\Debug\net8.0\HOTEL_LIB.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\obj\Debug\net8.0\HOTEL_LIB.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\obj\Debug\net8.0\HOTEL_LIB.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\obj\Debug\net8.0\HOTEL_LIB.sourcelink.json
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\obj\Debug\net8.0\HOTEL_LIB.dll
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\obj\Debug\net8.0\refint\HOTEL_LIB.dll
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\obj\Debug\net8.0\HOTEL_LIB.pdb
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\obj\Debug\net8.0\HOTEL_LIB.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Yennam26\HOTELWEBAPI\HOTEL_LIB\obj\Debug\net8.0\ref\HOTEL_LIB.dll
